@@ -3,13 +3,13 @@
 	"types": ["pack"],
 	"version": "1.4",
 	"homepage": "https://github.com/shinken-monitoring/pack-tomcat",
-	"author": "Jean Gabes",
+	"author": "Forlot Romain",
 	"description": "Checks various tomcat metrics from jolokia and jmx4perl",
 	"contributors": [
-	  {
-		"name": "Jean Gabes",
-		"email": "naparuba@gmail.com"
-	  },
+          {
+                "name": "Forlot Romain",
+                "email": "rforlot@yahoo.com"
+          },
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
@@ -18,7 +18,9 @@
 	"repository": "https://github.com/shinken-monitoring/pack-tomcat",
 	"keywords": [
 	  "pack",
-	  "tomcat-host"
+	  "tomcat",
+	  "jolokia",
+	  "jmx4perl"
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
