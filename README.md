@@ -1,4 +1,4 @@
 pack-tomcat
 ===========
 
-Shinken configuration pack for tomcat hosts
+Shinken configuration pack for tomcat monitoring
